@@ -1,0 +1,15 @@
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\bin\Debug\net6.0\lab1 sharp.exe
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\bin\Debug\net6.0\lab1 sharp.deps.json
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\bin\Debug\net6.0\lab1 sharp.runtimeconfig.json
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\bin\Debug\net6.0\lab1 sharp.dll
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\bin\Debug\net6.0\lab1 sharp.pdb
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.dll
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\refint\lab1 sharp.dll
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.pdb
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\lab1 sharp.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\OP Labs new\OP Labs new\obj\Debug\net6.0\ref\lab1 sharp.dll
