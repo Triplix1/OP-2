@@ -1,0 +1,16 @@
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.exe
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.deps.json
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.runtimeconfig.json
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.dll
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\bin\Debug\net5.0\Lab 2.2 Sharp.pdb
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.dll
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\refint\Lab 2.2 Sharp.dll
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.pdb
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\Lab 2.2 Sharp.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\Lab_2 Sharp\Lab 2.2 Sharp\obj\Debug\net5.0\ref\Lab 2.2 Sharp.dll
