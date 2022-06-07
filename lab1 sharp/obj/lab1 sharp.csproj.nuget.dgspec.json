@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vladislav\\source\\repos\\OP Labs new\\OP Labs new\\lab1 sharp.csproj": {}
+    "C:\\Users\\Vladislav\\OP-2\\lab1 sharp\\lab1 sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vladislav\\source\\repos\\OP Labs new\\OP Labs new\\lab1 sharp.csproj": {
+    "C:\\Users\\Vladislav\\OP-2\\lab1 sharp\\lab1 sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\OP Labs new\\OP Labs new\\lab1 sharp.csproj",
+        "projectUniqueName": "C:\\Users\\Vladislav\\OP-2\\lab1 sharp\\lab1 sharp.csproj",
         "projectName": "lab1 sharp",
-        "projectPath": "C:\\Users\\Vladislav\\source\\repos\\OP Labs new\\OP Labs new\\lab1 sharp.csproj",
+        "projectPath": "C:\\Users\\Vladislav\\OP-2\\lab1 sharp\\lab1 sharp.csproj",
         "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vladislav\\source\\repos\\OP Labs new\\OP Labs new\\obj\\",
+        "outputPath": "C:\\Users\\Vladislav\\OP-2\\lab1 sharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
